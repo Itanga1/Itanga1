@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-## My Development Workflow
-
-```mermaid
-graph LR
-    A[Code Review] --> B[90% Commits]
-    C[Issues] --> D[10% Pull Requests]
 
 <!--
 **Itanga1/Itanga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
