@@ -1,0 +1,20 @@
+name: Generate GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Activity Graph
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Itanga1
