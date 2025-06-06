@@ -3,15 +3,19 @@
 ## My Development Workflow
 
 ```mermaid
-quadrantChart
-    title Development Workflow
-    x-axis Low --> High  
-    y-axis Low --> High
-    quadrant-1 Code review
-    quadrant-2 Issues
-    quadrant-3 Pull requests  
-    quadrant-4 Commits
-    Point A: [0.9, 0.1]
+flowchart LR
+    A[Code Review<br/>High Impact] 
+    B[Issues<br/>Medium Impact]
+    C[Pull Requests<br/>10%]
+    D[Commits<br/>90%]
+    
+    A -.-> B
+    C -.-> D
+    
+    style A fill:#4caf50
+    style B fill:#ff9800
+    style C fill:#2196f3
+    style D fill:#9c27b0
 
 <!--
 **Itanga1/Itanga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
