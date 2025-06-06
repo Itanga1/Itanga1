@@ -3,19 +3,14 @@
 ## My Development Workflow
 
 ```mermaid
-flowchart LR
-    A[Code Review<br/>High Impact] 
-    B[Issues<br/>Medium Impact]
-    C[Pull Requests<br/>10%]
-    D[Commits<br/>90%]
-    
-    A -.-> B
-    C -.-> D
-    
-    style A fill:#4caf50
-    style B fill:#ff9800
-    style C fill:#2196f3
-    style D fill:#9c27b0
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
+graph TD
+    A[Code Review] --> B[90% Commits]
+    C[Issues] --> D[10% Pull Requests]
+    style A fill:#e1f5fe
+    style B fill:#c8e6c9
+    style C fill:#fff3e0
+    style D fill:#fce4ec
 
 <!--
 **Itanga1/Itanga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
