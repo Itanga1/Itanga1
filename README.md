@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Itanga</h1>
+<h1 align="center">Hi 👋, I'm Itanga Benigne</h1>
 <h3 align="center">A passionate developer and lifelong learner.</h3>
 
 ---
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **exciting personal and collaborative software projects**
 - 🌱 I’m currently learning **cloud technologies and backend systems**
-- 💬 Ask me about **Python, JavaScript, or anything tech-related**
-- 📫 How to reach me: **itangadev@gmail.com**
+- 💬 Ask me about **Java, JavaScript, or anything tech-related**
+- 📫 How to reach me: **itgbenny@gmail.com**
 - ⚡ Fun fact: *I love breaking things just to fix them better!*
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +45,7 @@
 
 ### 📫 Connect with Me
 
-[![Gmail Badge](https://img.shields.io/badge/-itangadev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itangadev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-itgbenny@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itgbenny@gmail.com)
 
 ---
 
