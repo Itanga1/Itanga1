@@ -38,7 +38,7 @@
 ### 📈 Contribution Graph (Radar)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Itanga1&theme=github-compact&area=true&custom_title=Itanga's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itanga1&theme=github-compact&area=true&custom_title=Itanga's%20Contribution%20Graph" />
 </p>
 
 ---
