@@ -53,6 +53,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-itgbenny@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:itgbenny@gmail.com)
 
+### 🔗 Find Me Elsewhere
+
+- LinkedIn: *(https://www.linkedin.com/in/itanga-benigne-a44911235/)*
+- Portfolio: *(https://ibenportfolio.vercel.app/)*
+
 ---
 
 <p align="center">
